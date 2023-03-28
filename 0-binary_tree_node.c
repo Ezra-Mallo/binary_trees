@@ -6,7 +6,7 @@
  *
  * @parent: parameter for parent
  * @value: Parameter for value n
- * Return; Returns the struct
+ * Return: Returns the struct
  */
 
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
