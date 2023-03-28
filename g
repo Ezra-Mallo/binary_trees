@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Task 1. Insert left"
+git commit -m "Task 2. Insert right"
 git push
