@@ -4,7 +4,8 @@
 /**
  * binary_tree_insert_left - This inserts a node as the left-child of another
  * @parent:  parent node
- * @value;  Value to  be added
+ * @value:  Value to  be added
+ * Return: the memory address of the struct
  */
 
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value)
