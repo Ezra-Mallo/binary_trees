@@ -3,6 +3,7 @@
 
 /**
  * binary_tree_node - This function creates a binary tree node
+ *
  * @parent: parameter for parent
  * @value: Parameter for value n
  * Return; Returns the struct
