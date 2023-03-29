@@ -1,5 +1,6 @@
-#ifndef _BINARY_TREE
-#define _BINARY_TREE_
+#ifndef _BINARY_TREE_H
+#define _BINARY_TREE_H
+#include <stdio.h>
 
 /**
  * struct binary_tree_s - Binary tree node
@@ -30,5 +31,10 @@ binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value);
 void binary_tree_delete(binary_tree_t *tree);
 int binary_tree_is_leaf(const binary_tree_t *node);
 int binary_tree_is_root(const binary_tree_t *node);
+void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int));
+
+
+
+
 
 #endif
