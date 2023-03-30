@@ -1,4 +1,13 @@
 #!/bin/bash
 git add .
-git commit -m "Task 6. Pre-order traversal, Task 7. In-order traversal, & Tast 8. Post-order traversal"
+git commit -m "Task 9. Height"
+#10. Depth
+#11. Size
+#12. Leaves
+#13. Nodes
+#14. Balance factor
+#15. Is full
+#16. Is perfect
+#17. Sibling
+#18. Uncle"*/
 git push
