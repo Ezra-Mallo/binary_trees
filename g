@@ -1,7 +1,6 @@
 #!/bin/bash
 git add .
-git commit -m "Task 9. Height"
-#10. Depth
+git commit -m "Task 10. Depth"
 #11. Size
 #12. Leaves
 #13. Nodes
