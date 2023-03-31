@@ -1,7 +1,6 @@
 #!/bin/bash
 git add .
-git commit -m "Task 11. Size"
-#12. Leaves
+git commit -m "Task 12. Leaves"
 #13. Nodes
 #14. Balance factor
 #15. Is full
